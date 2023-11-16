@@ -2,8 +2,11 @@
  * 바탕화면 정리
  **/
 fun main(args: Array<String>) {
+    // 문제
     val wallpaper: Array<String>  = arrayOf()
+    // 결과
     var answer: IntArray = intArrayOf()
+
     var lux = -1;
     var luy = -1;
     var rdx = -1;

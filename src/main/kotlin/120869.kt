@@ -2,8 +2,10 @@
  * 외계어 사전
  */
 fun main(args: Array<String>) {
+    // 문제
     val spell = arrayOf("p", "o", "s")
     val dic = arrayOf("sod", "eocd", "qixm", "adio", "soo")
+    // 결과
     var answer: Int = 2
 
     spell.sort()
